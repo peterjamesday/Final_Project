@@ -1,0 +1,11 @@
+In the last class I learned basic command line functions and how to commit to git and push to github. 
+
+The command line functions I learned were ls, ., .., ~, cd, touch, mv, rm, mkdir, rmdir, also made a function, subl, which opens a document in sublime text or creates a new document there. 
+
+I also learned how to use git.
+
+To push things to the staging area in git, I do git add file
+To commit them, I do git commit file
+To push them to github I do git push -u origin master
+To see the status I do git status
+To find the changes I can do git --stat or git -log, git -log is more intense
